@@ -1,4 +1,4 @@
-#LAB is based on script provided by Chris Polawika - https://blog.polewiak.pl/2017/06/12/mikrotik-w-azure-step-by-step/
+#LAB is based on script provided by Chris Polewiak - https://blog.polewiak.pl/2017/06/12/mikrotik-w-azure-step-by-step/
 #It has been updated and changed as the approach is different. 
 
 #Select-AzureRmContext 
